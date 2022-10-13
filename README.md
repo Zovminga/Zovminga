@@ -1,4 +1,4 @@
-https://github.com/Zovminga/Zovminga/blob/main/header.png)
+[/header.png](https://github.com/Zovminga/Zovminga/blob/main/header.png)
 <h3 align="center">Analyst</h3>
 
 Here are some ideas to get you started:
