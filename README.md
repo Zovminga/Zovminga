@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Zovminga/Zovminga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">/header.png</a> 
+<h3 align="center">Analyst</h3>
 
 Here are some ideas to get you started:
 
