@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/106879463/195555079-173fdedf-61af-441b-9968-0106c64c1129.png" height="300"/>
+<img src="https://user-images.githubusercontent.com/106879463/195555079-173fdedf-61af-441b-9968-0106c64c1129.png" height="200"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
