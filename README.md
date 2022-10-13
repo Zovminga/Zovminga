@@ -2,10 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Zovminga)
 
-⚡ Analyst with 3 years of experience in digital innovations analysis in oil&gas majors.
-🐾 Progressing the data analysis field and work with digital products and services in fintech, pharma, e-commerce, energy etc.
-🌱 Interested in data science and machine learning
+⚡ Analyst with 3 years of experience in digital innovations analysis in oil&gas majors.  
+🐾 Progressing the data analysis field and work with digital products and services in fintech, pharma, e-commerce, energy etc.  
+🌱 Interested in data science and machine learning  
 
 
-🔎 LinkedIn Profile: Azat Mingazov (https://www.linkedin.com/in/azat-mingazov-6563881b5/)
+🔎 LinkedIn Profile: [Azat Mingazov](https://www.linkedin.com/in/azat-mingazov-6563881b5/)  
 📫 Email: mingazov.azat16@gmail.com
