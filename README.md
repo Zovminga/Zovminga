@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/106879463/195555079-173fdedf-61af-441b-9968-0106c64c1129.png" height="200"/>
+<h1 align="center">Hi there, I'm Azat</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ![](https://komarev.com/ghpvc/?username=Zovminga)
 
@@ -6,7 +7,7 @@
 
 ⚡ Analyst with 3 years of experience in digital innovations analysis in oil&gas majors.  
 🐾 Progressing the data analysis field and working with digital products and services in fintech, pharma, e-commerce, energy etc.  
-🌱 Interested in data science and machine learning  
+🌱 Interested in data science and machine learning 
 
 
 🔎 LinkedIn Profile: [Azat Mingazov](https://www.linkedin.com/in/azat-mingazov-6563881b5/)  
