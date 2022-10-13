@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">/header.png</a> 
+/header.png
 <h3 align="center">Analyst</h3>
 
 Here are some ideas to get you started:
