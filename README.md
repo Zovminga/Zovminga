@@ -20,4 +20,4 @@ Technology stack:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 
 
-![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zovminga&show_icons=true&theme=synthwave)
+![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zovminga&show_icons=true&theme=synthwave)(https://github.com/anuraghazra/github-readme-stats)
