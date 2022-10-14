@@ -4,7 +4,7 @@
 
 
 
-My CV [here](https://github.com/Zovminga/Zovminga/blob/main/CV_Azat_Mingazov.pdf)  
+My CV [here](https://github.com/Zovminga/Zovminga/blob/main/CV%20Azat_Mingazov.pdf)  
 
 You can write me on [LinkedIn](https://www.linkedin.com/in/azat-mingazov-6563881b5/) or [e-mail](mailto:mingazov.azat16@gmail.com) me
 
