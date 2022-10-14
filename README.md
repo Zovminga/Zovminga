@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Exploring+Github+world)](https://git.io/typing-svg)
 
-My CV [here](https://github.com/Zovminga/Zovminga/blob/main/CV_Azat_Mingazov.pdf)
+My CV [here](https://github.com/Zovminga/Zovminga/blob/main/CV_Azat_Mingazov.pdf)  
 You can write me on [LinkedIn](https://www.linkedin.com/in/azat-mingazov-6563881b5/) or [e-mail](mailto:mingazov.azat16@gmail.com) me
 
 
