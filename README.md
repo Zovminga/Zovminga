@@ -2,10 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Zovminga)
 
-
-
-My CV [here](https://github.com/Zovminga/Zovminga/blob/main/CV%20Azat_Mingazov.pdf)  
-
 You can write me on [LinkedIn](https://www.linkedin.com/in/azat-mingazov-6563881b5/) or [e-mail](mailto:mingazov.azat16@gmail.com) me
 
  
@@ -14,6 +10,8 @@ You can write me on [LinkedIn](https://www.linkedin.com/in/azat-mingazov-6563881
 🐾 Progressing the data analysis field and working with digital products and services in fintech, pharma, e-commerce, energy etc.  
 
 🌱 Interested in data science and machine learning 
+
+My CV [here](https://github.com/Zovminga/Zovminga/blob/main/CV%20Azat_Mingazov.pdf)  
 
 ------------------------  
 
