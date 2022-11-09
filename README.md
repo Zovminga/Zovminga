@@ -9,9 +9,7 @@ You can write me on [LinkedIn](https://www.linkedin.com/in/azat-mingazov-6563881
 
 🐾 Progressing the data analysis field and working with digital products and services in fintech, pharma, e-commerce, energy etc.  
 
-🌱 Interested in data science and machine learning 
-
-My CV [here](https://github.com/Zovminga/Zovminga/blob/main/CV%20Azat_Mingazov.pdf)  
+🌱 Interested in data science, movies, games and anime
 
 ------------------------  
 
