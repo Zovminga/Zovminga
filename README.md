@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Azat</a> 👋 </h1>
+<h1 align="left">Hi there, I'm Azat</a> 👋 </h1>
 
 ![](https://komarev.com/ghpvc/?username=Zovminga)
 
