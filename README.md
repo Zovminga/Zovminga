@@ -4,12 +4,7 @@
 
 You can write me on [LinkedIn](https://www.linkedin.com/in/azat-mingazov-6563881b5/) or [e-mail](mailto:mingazov.azat16@gmail.com) me
 
- 
-⚡ Analyst with 3 years of experience in digital innovations analysis in oil&gas majors.  
 
-🐾 Progressing the data analysis field and working with digital products and services in fintech, pharma, e-commerce, energy etc.  
-
-🌱 Interested in data science, movies, games and anime
 
 ------------------------  
 
