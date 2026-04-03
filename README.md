@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Zovminga)
 
-Senior Data Analyst with 5+ years of experience in AdTech, iGaming and e-commerce. Competencies in statistics, visualization, research and A/B testing. Strong SQL and Python skills, high proficiency in BI tools, experience with ETL, Docker and DAG building. 12+ research projects and A/B tests, 57+ Tableau dashboards.
+Senior Data Analyst with 5+ years of experience in AdTech, iGaming and e-commerce. Competencies in statistics, visualization, research and A/B testing. Strong SQL and Python skills, high proficiency in BI tools, experience with ETL, Docker and DAG building. 
 
-AdTech・iGaming・ECの分野で5年以上の経験を持つシニアデータアナリスト。統計、可視化、リサーチ、A/Bテストに精通。SQLとPythonに強く、BIツール、ETL、Docker、DAG構築の経験あり。12以上のリサーチプロジェクトとA/Bテスト、57以上のTableauダッシュボードを構築。
+AdTech・iGaming・ECの分野で5年以上の経験を持つシニアデータアナリスト。統計、可視化、リサーチ、A/Bテストに精通。SQLとPythonに強く、BIツール、ETL、Docker、DAG構築の経験あり。
 
 📄 [My CV](Azat%20Mingazov_CV.pdf)
 
