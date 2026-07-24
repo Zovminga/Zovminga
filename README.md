@@ -1,4 +1,4 @@
-![Hi there, I'm Azat](header.png)
+<h1 align="left">Hi there, I'm Azat 👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=Zovminga)
 
