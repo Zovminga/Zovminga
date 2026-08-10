@@ -6,7 +6,7 @@ Senior Data Analyst with 5+ years of experience in AdTech, oil & gas and startup
 
 AdTech・石油&ガス・スタートアップの分野で5年以上の経験を持つシニアデータアナリスト。統計、可視化、リサーチ、A/Bテストに精通。SQLとPythonに強く、BIツール、ETL、Docker、DAG構築の経験あり。
 
-📄 [My CV](Azat%20Mingazov_CV.pdf)
+📄 [My CV](Azat%20Mingazov_CV.pdf) · 🌍 [zovminga.me](https://zovminga.me)
 
 🌐 English — C1 | 日本語 — N4 | Русский — Native
 
